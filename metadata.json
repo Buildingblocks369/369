@@ -1,0 +1,8 @@
+{
+  "name": "Copy of FocusFlow: The ADHD Mind-Organizer",
+  "description": "A smart daily planner designed for ADHD minds. It converts messy brain dumps, voice notes, and screenshots into a structured, low-friction daily schedule with task breakdown features.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
